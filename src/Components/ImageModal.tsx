@@ -1,5 +1,5 @@
 import { Image, Modal } from "react-bootstrap";
-import { ImageModelProps } from "../types";
+import type { ImageModelProps } from "../types";
 
 export default function ImageModal({
   Path,

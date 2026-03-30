@@ -8,6 +8,30 @@ type Projekt = {
 export const Projekte: Projekt[] = [
   {
     Objekt:
+      "Herstellung von Kombi-Gleiswaagen im Werk Hönnetal der RHEINKALK GmbH\nhier: Standsicherheitsnachweise mit Schal- und Bewehrungsplanung",
+    Bauherrschaft:
+      "Lhoist Germany - Rheinkalk GmbH\nAm Kalkstein 1\n42489 Wülfrath",
+    Auftraggeber: "wie Bauherr",
+    Jahr: "2026",
+  },
+  {
+    Objekt:
+      "Ertüchtigung Schachtofenanlage im Dolomitwerk Wünschendorf\nhier: Nachweise zum Baubestand und Detailnachweise zu Ertüchtigungen",
+    Bauherrschaft:
+      "Wünschendorfer Dolomitwerk GmbH\nGeraer Straße 34\n07980 Berga- Wünschendorf",
+    Auftraggeber: "InduServ GmbH\nHinterm Wal 2\n37355 Deuna",
+    Jahr: "2025/2026",
+  },
+  {
+    Objekt:
+      "Erweiterungsneubau Haus 8 - Vitos Klinik für forensische Psychatrie Hadamar, Verbindungsbrücke\nhier: Standsicherheitsnachweise und Detailnachweise zum Stahlbau",
+    Bauherrschaft: "Vitos Weil-Lahn gGmbH\nMönchberg 8\n65589 Hadamar",
+    Auftraggeber:
+      "Lamparter GmbH & Co. KG\nLeipziger Str. 12-18\n34260 Kaufungen",
+    Jahr: "2024/2025/2026",
+  },
+  {
+    Objekt:
       "Nachrechnung Kranbahnkonstruktion für einen Kranaustausch\nhier: Standsicherheitsnachweis und Lastvergleich",
     Bauherrschaft:
       "Schmidtsche Schack/ARVOS GmbH\nEllenbacher Straße 10\n34123 Kassel",
