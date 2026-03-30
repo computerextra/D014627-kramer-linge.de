@@ -1,5 +1,24 @@
 # Dokumentation über Tätigkeiten
 
+## 30.03.2026
+
+- Update der Abhängigkeiten
+  - Font Awesome Ver. 6.7.2 -> 7.2.0
+  - Bootstrap Ver. 5.3.3 -> 5.3.8
+  - React Ver. 19.0.0 -> 19.2.4
+  - React Router Ver. 7.3.0 -> 7.13.2
+  - Typescript Ver. 5.8.2 -> 5.9.3
+  - Vite Vers. 6.2.1 -> 8.0.1
+- Footer durch Update nicht mehr Funktionsfähig
+  - Programmatische änderungen am Footer durchgeführt, damit dieser wieder Funktioniert.
+- Referenzen:
+  - Projekte: Neue Projekte hinzugefügt.
+  - Prüfungen: Neue Prüfungen hinzugefügt.
+- Ansprechpartner:
+  - Titel v. Paulina Ulrich angepasst.
+  - Neues Bild: Paulina Ulrich
+- Updates auf Funktion getestet.
+
 ## 13.03.2025
 
 - Update der Abhängigkeiten

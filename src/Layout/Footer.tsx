@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useEffectEvent, useState } from "react";
 import { Container } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
 import { Urls } from "../Data/Urls";
@@ -6,10 +6,14 @@ import { Urls } from "../Data/Urls";
 export default function Footer() {
   const [date, setDate] = useState("");
 
-  useEffect(() => {
+  const dateCalc = useEffectEvent(() => {
     const today = new Date().getFullYear().toString();
     if (today !== "2023") setDate("2023 - " + today);
     else setDate(today);
+  });
+
+  useEffect(() => {
+    dateCalc();
   }, []);
 
   return (

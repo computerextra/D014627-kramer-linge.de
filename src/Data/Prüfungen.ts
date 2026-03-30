@@ -7,6 +7,27 @@ type Prüfung = {
 export const Prüfungen: Prüfung[] = [
   {
     Objekt:
+      "Errichtung einer Produktions- und Logistikhalle mit Büro und Lagerflächen als Mezzanine/Einbau in 34134 Kassel",
+    Bauherrschaft:
+      "Dutch Industrial Properties XVII BV\nApollolaan 171-D, 1077 AS Amsterdam\nNIEDERLANDE",
+    Jahr: "2026",
+  },
+  {
+    Objekt:
+      "Errichtung einer Interims-Containeranlage für das Gymnasium Seidensticker-Campus in 33609 Bielefeld",
+    Bauherrschaft:
+      "BBVG Bielefelder Beteiligungs- und Vermögensverwaltungsgesellschaft mbH\nJahnplatz 5, 33602 Bielefeld",
+    Jahr: "2026",
+  },
+  {
+    Objekt:
+      "Neubau Wohnpark am Adonisröschen bestehend aus 4 Mehrfamilienhäuser mit 67 Wohneinheiten und Tiefgarage in 91438 Bad Windsheim",
+    Bauherrschaft:
+      "Johann Stein GmbH\nDipl.-Ing. (FH + TU) Christian Stein\nWachsenberg 28\n91616 Neusitz",
+    Jahr: "2026",
+  },
+  {
+    Objekt:
       "Errichtung einer Klassenzimmercontaineranlage für das Hohenstaufen-Gymnasium in 73033 Göppingen",
     Bauherrschaft:
       "Stadt Göppingen\nFachbereich Immobilienwirtschaft,\nReferat Hochbau\nNördliche Ringstraße 35\n73033 Göppingen",
