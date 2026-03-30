@@ -18,6 +18,7 @@
   - Titel v. Paulina Ulrich angepasst.
   - Neues Bild: Paulina Ulrich
 - Updates auf Funktion getestet.
+- URL mit genauen Änderungen: https://github.com/computerextra/D014627-kramer-linge.de/pull/7/changes
 
 ## 13.03.2025
 
